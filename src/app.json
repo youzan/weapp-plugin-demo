@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/dashboard/index",
+    "pages/goods/big/index",
+    "pages/goods/big1small2/index",
+    "pages/goods/small/index",
+    "pages/goods/list/index",
+    "pages/goods/three/index",
+    "pages/goods/three-swipe/index",
+    "pages/groupon/big/index",
+    "pages/groupon/small/index",
+    "pages/groupon/list/index"
+  ],
+  "functionalPages": true,
+  "debug": false,
+  "plugins": {
+    "yzGoodsPlugin": {
+      "version": "0.1.0",
+      "provider": "wxbcdf0f04295ab25e"
+    },
+    "yzGrouponPlugin": {
+      "version": "0.1.0",
+      "provider": "wx7264e79652f66bc9"
+    }
+  }
+}

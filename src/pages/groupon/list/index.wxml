@@ -1,0 +1,20 @@
+<doc-page title="列表样式">
+  <demo-item>
+    <view class="demo-item__code" slot="code">
+      <rich-text type="text" nodes="{{ nodes }}">
+      </rich-text>
+    </view>
+
+    <view>
+      <text class="demo-item__subtitle">展示效果：</text>
+      <groupon
+        app-id="wxf11c5910cb729a82"
+        kdt-id="{{ 16719442 }}"
+        size="2"
+        goods-source="1"
+        activity-ids="634766,634762,634761,634760,634758,634757"
+        extra-data="{{ extraData }}"
+      />
+    </view>
+  </demo-item>
+</doc-page>

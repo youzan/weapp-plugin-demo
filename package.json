@@ -1,0 +1,42 @@
+{
+  "name": "wsc-plugin-weapp",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "dev": "rimraf dist/pages && webpack --mode development --watch --config ./build/webpack.config.js",
+    "build": "webpack --mode production --config ./build/webpack.config.js",
+    "precommit": "lint-staged"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.5.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-es2015-spread": "^6.22.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "cache-loader": "^1.2.2",
+    "copy-webpack-plugin": "^4.5.2",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.10.0",
+    "file-loader": "^1.1.11",
+    "fs-extra": "^4.0.2",
+    "gh-pages": "^1.1.0",
+    "mini-program-webpack-loader": "0.1.6",
+    "node-sass": "^4.9.0",
+    "rimraf": "^2.6.2",
+    "sass-loader": "^7.0.3",
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8",
+    "webpack-merge": "^4.1.3"
+  },
+  "dependencies": {
+    "zanui-weapp": "^3.0.9"
+  },
+  "moduleRoots": [
+    "src"
+  ]
+}

@@ -1,0 +1,16 @@
+.demo-item {
+  margin: 10px 0;
+}
+
+.demo-item__title {
+  padding: 0 15px;
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.demo-item__subtitle {
+  font-size: 14px;
+  color: #666;
+  padding: 10px;
+}
