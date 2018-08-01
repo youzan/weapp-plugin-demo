@@ -6,7 +6,8 @@
 
 ![](https://img.yzcdn.cn/public_files/2018/07/31/682a9b8eb3eea0b934031049da29837b.png)
 
-在打开的页面里：
+在打开的页面里：   
+
 ![](https://img.yzcdn.cn/public_files/2018/07/31/45bb15e0168b90a9d25d2042a10e8779.png)
 
 ## 如何获取有赞的商品id？
