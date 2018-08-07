@@ -6,3 +6,7 @@
 
 
 开发小程序推荐使用有赞前端团队出品的业内star最多的小程序组件库： https://github.com/youzan/zanui-weapp
+
+## 如何获取店铺编号
+
+![如何获取店铺编号](https://img.yzcdn.cn/upload_files/2018/08/07/FpYZz_s0JjrzyI8bQ-CA1QDz4gc5.png)
