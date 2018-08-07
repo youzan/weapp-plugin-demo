@@ -10,7 +10,7 @@
       <goods
         app-id="wxf11c5910cb729a82"
         kdt-id="{{ 16719442 }}"
-        goods-group-alias="s4ftrie81"
+        goods-group-id="s4ftrie81"
         layout="{{ 3 }}"
         extra-data="{{ extraData }}"
       />
