@@ -1,0 +1,17 @@
+<view class="container">
+
+  <image class="logo" src="https://img.yzcdn.cn/public_files/2017/02/06/ee0ebced79a80457d77ce71c7d414c74.png"></image>
+
+  <zan-panel title="{{ curConfig.title }}">
+    <zan-cell-group>
+      <zan-cell
+        wx:for="{{ curConfig.content }}"
+        wx:key="name"
+        is-link
+        url="{{ item.path }}"
+        title="{{ item.name }}"
+      />
+    </zan-cell-group>
+  </zan-panel>
+  
+</view>

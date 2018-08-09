@@ -10,3 +10,15 @@
 ## 如何获取店铺编号
 
 ![如何获取店铺编号](https://img.yzcdn.cn/upload_files/2018/08/07/FpYZz_s0JjrzyI8bQ-CA1QDz4gc5.png)
+
+## 如何预览dmeo
+
+1. 在根目录下运行
+
+```shell
+npm install
+npm run dev
+```
+
+2. 打开`微信开发者工具`，'本地小程序项目 - 添加项目'，把 `dist` 目录添加进去就可以预览示例demo了。
+

@@ -11,15 +11,14 @@
     "pages/groupon/small/index",
     "pages/groupon/list/index"
   ],
-  "functionalPages": true,
   "debug": false,
   "plugins": {
     "yzGoodsPlugin": {
-      "version": "0.1.0",
+      "version": "0.2.0",
       "provider": "wxbcdf0f04295ab25e"
     },
     "yzGrouponPlugin": {
-      "version": "0.1.0",
+      "version": "0.2.0",
       "provider": "wx7264e79652f66bc9"
     }
   }

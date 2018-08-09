@@ -1,0 +1,13 @@
+.demo-item__code {
+  font-size: 14px;
+  color:#455a64;
+  background-color: #fff;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.demo-item__subtitle {
+  font-size: 14px;
+  color: #666;
+  padding: 10px;
+}

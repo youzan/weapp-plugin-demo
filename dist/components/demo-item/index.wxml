@@ -1,0 +1,6 @@
+<view class="demo-item">
+  <text class="demo-item__subtitle">代码演示：</text>
+  <slot name="code"></slot>
+
+  <slot></slot>
+</view>
