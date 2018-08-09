@@ -11,7 +11,7 @@
 
 ![如何获取店铺编号](https://img.yzcdn.cn/upload_files/2018/08/07/FpYZz_s0JjrzyI8bQ-CA1QDz4gc5.png)
 
-## 如何预览dmeo
+## 如何预览demo
 
 1. 在根目录下运行
 
