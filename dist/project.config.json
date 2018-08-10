@@ -11,7 +11,7 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.1.1",
+	"libVersion": "2.2.2",
 	"appid": "wxb33bfd3d63a65bdf",
 	"projectname": "wsc-plugin-weapp-github",
 	"svr": "",

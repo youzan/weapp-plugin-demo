@@ -14,11 +14,11 @@
   "debug": false,
   "plugins": {
     "yzGoodsPlugin": {
-      "version": "0.2.0",
+      "version": "0.3.0",
       "provider": "wxbcdf0f04295ab25e"
     },
     "yzGrouponPlugin": {
-      "version": "0.2.0",
+      "version": "0.3.0",
       "provider": "wx7264e79652f66bc9"
     }
   }

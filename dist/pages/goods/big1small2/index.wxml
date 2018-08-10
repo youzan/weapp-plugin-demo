@@ -9,7 +9,7 @@
       <text class="demo-item__subtitle">展示效果：</text>
       <goods
         app-id="wxf11c5910cb729a82"
-        kdt-id="{{ 16719442 }}"
+        shop-id="{{ 45694034 }}"
         open-id="oDpvq0LNzwhMGfiNRbq-NthY5oUo"
         goods-group-id="s4ftrie81"
         layout="{{ 2 }}"
