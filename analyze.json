@@ -145,10 +145,10 @@
       "pages/goods/big1small2/index",
       "pages/goods/small/index",
       "pages/goods/list/index",
-      "pages/goods/three/index",
       "pages/goods/three-swipe/index",
-      "pages/groupon/big/index",
+      "pages/goods/three/index",
       "pages/groupon/small/index",
+      "pages/groupon/big/index",
       "pages/groupon/list/index"
     ],
     "components/demo-item/index": [
@@ -156,10 +156,10 @@
       "pages/goods/big1small2/index",
       "pages/goods/small/index",
       "pages/goods/list/index",
-      "pages/goods/three/index",
       "pages/goods/three-swipe/index",
-      "pages/groupon/big/index",
+      "pages/goods/three/index",
       "pages/groupon/small/index",
+      "pages/groupon/big/index",
       "pages/groupon/list/index"
     ],
     "zanui-weapp/dist/panel/index": [
