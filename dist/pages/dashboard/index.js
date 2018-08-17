@@ -110,7 +110,7 @@ __webpack_require__.r(__webpack_exports__);
       path: 'plugin://yzTradePlugin/goods-detail?alias=2fp4pt2vockaq&openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
     }, {
       name: 'OrderList 订单列表页',
-      path: 'plugin://yzTradePlugin/order-list?type=all'
+      path: 'plugin://yzTradePlugin/order-list?type=all&openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
     }]
   },
   groupon: {
