@@ -4,7 +4,8 @@
 
 ## 如何获取有赞的拼团活动id？
 
-1. 点击有赞商家后台进入拼团列表，打开开发者工具（快捷键：Mac为`command + alt + i`，windows为`ctrl + shift + i`）
+![](https://img.yzcdn.cn/upload_files/2018/08/20/Fnl8Uw2RYJ6eH_qjIoqZV_He7U9v.png)
 
-2. 重新刷新页面，
-![](https://img.yzcdn.cn/upload_files/2018/08/10/Ftpe_-CV9SetLL9TCWDNiw0h-p4E.png)
+在打开的页面里：
+
+![](https://img.yzcdn.cn/upload_files/2018/08/20/FnQvBrS-olgV1RRao65mfO2cBfKn.png)
