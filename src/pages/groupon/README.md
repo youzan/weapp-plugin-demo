@@ -4,8 +4,8 @@
 
 ## 如何获取有赞的拼团活动id？
 
-![](https://img.yzcdn.cn/upload_files/2018/08/20/Fnl8Uw2RYJ6eH_qjIoqZV_He7U9v.png)
+![](https://img.yzcdn.cn/upload_files/2018/08/20/80baf69678f46d6a389e266a3aadd3b2.png)
 
-在打开的页面里：
+在打开的页面里：   
 
-![](https://img.yzcdn.cn/upload_files/2018/08/20/FnQvBrS-olgV1RRao65mfO2cBfKn.png)
+![](https://img.yzcdn.cn/upload_files/2018/08/20/f59de76d424deae0708a85c0024f5f07.png)
