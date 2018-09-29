@@ -148,8 +148,8 @@
       "pages/goods/three/index",
       "pages/goods/three-swipe/index",
       "pages/groupon/big/index",
-      "pages/groupon/small/index",
-      "pages/groupon/list/index"
+      "pages/groupon/list/index",
+      "pages/groupon/small/index"
     ],
     "components/demo-item/index": [
       "pages/goods/big/index",
@@ -159,8 +159,8 @@
       "pages/goods/three/index",
       "pages/goods/three-swipe/index",
       "pages/groupon/big/index",
-      "pages/groupon/small/index",
-      "pages/groupon/list/index"
+      "pages/groupon/list/index",
+      "pages/groupon/small/index"
     ],
     "zanui-weapp/dist/panel/index": [
       "pages/dashboard/index"
