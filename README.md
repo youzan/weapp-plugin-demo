@@ -20,9 +20,9 @@ npm run dev
 * 有赞微商城拼团插件：https://mp.weixin.qq.com/wxopen/plugindevdoc?appid=wx7264e79652f66bc9&token=1846183980&lang=zh_CN
 * 有赞微商城核心交易插件：https://mp.weixin.qq.com/wxopen/plugindevdoc?appid=wxef2db03c377b0016&token=1803181793&lang=zh_CN
 
+## 推荐
+开发小程序推荐使用有赞前端团队出品的业内star最多的小程序组件库： https://github.com/youzan/zanui-weapp
+
 ## 如何获取店铺编号
 
 ![如何获取店铺编号](https://img.yzcdn.cn/upload_files/2018/08/07/FpYZz_s0JjrzyI8bQ-CA1QDz4gc5.png)
-
-## 推荐
-开发小程序推荐使用有赞前端团队出品的业内star最多的小程序组件库： https://github.com/youzan/zanui-weapp
