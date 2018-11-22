@@ -90,6 +90,78 @@
     "pages/groupon/list/index.wxss": [
       "__assets_chunk_name__0.js"
     ],
+    "pages/seckill/big/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/big/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/big/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/small/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/small/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/small/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/list/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/list/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/list/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/hybrid/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/hybrid/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/seckill/hybrid/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/big/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/big/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/big/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/small/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/small/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/small/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/list/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/list/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/list/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/hybrid/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/hybrid/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/limitdiscount/hybrid/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
     "pages/dashboard/config.js": [
       "pages/dashboard/index.js"
     ],
@@ -149,7 +221,15 @@
       "pages/goods/three-swipe/index",
       "pages/groupon/big/index",
       "pages/groupon/small/index",
-      "pages/groupon/list/index"
+      "pages/groupon/list/index",
+      "pages/seckill/big/index",
+      "pages/seckill/small/index",
+      "pages/seckill/list/index",
+      "pages/seckill/hybrid/index",
+      "pages/limitdiscount/big/index",
+      "pages/limitdiscount/small/index",
+      "pages/limitdiscount/list/index",
+      "pages/limitdiscount/hybrid/index"
     ],
     "components/demo-item/index": [
       "pages/goods/big/index",
@@ -160,7 +240,15 @@
       "pages/goods/three-swipe/index",
       "pages/groupon/big/index",
       "pages/groupon/small/index",
-      "pages/groupon/list/index"
+      "pages/groupon/list/index",
+      "pages/seckill/big/index",
+      "pages/seckill/small/index",
+      "pages/seckill/list/index",
+      "pages/seckill/hybrid/index",
+      "pages/limitdiscount/big/index",
+      "pages/limitdiscount/small/index",
+      "pages/limitdiscount/list/index",
+      "pages/limitdiscount/hybrid/index"
     ],
     "zanui-weapp/dist/panel/index": [
       "pages/dashboard/index"

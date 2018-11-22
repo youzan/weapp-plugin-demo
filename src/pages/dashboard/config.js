@@ -11,6 +11,14 @@ export default {
         path: '/pages/dashboard/index?type=groupon'
       },
       {
+        name: 'Seckill 秒杀',
+        path: '/pages/dashboard/index?type=seckill'
+      },
+      {
+        name: 'LimitDiscount 限时折扣',
+        path: '/pages/dashboard/index?type=limitdiscount'
+      },
+      {
         name: 'Goods 商品页',
         path: 'plugin://yzTradePlugin/goods-detail?alias=2fp4pt2vockaq&openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
       },
@@ -63,6 +71,48 @@ export default {
       {
         name: '横向滑动样式',
         path: '/pages/goods/three-swipe/index'
+      }
+    ]
+  },
+  seckill: {
+    title: '有赞微商城秒杀',
+    content: [
+      {
+        name: '大图样式',
+        path: '/pages/seckill/big/index'
+      },
+      {
+        name: '小图样式',
+        path: '/pages/seckill/small/index'
+      },
+      {
+        name: '一大两小样式',
+        path: '/pages/seckill/hybrid/index'
+      },
+      {
+        name: '列表样式',
+        path: '/pages/seckill/list/index'
+      }
+    ]
+  },
+  limitdiscount: {
+    title: '有赞微商城限时折扣',
+    content: [
+      {
+        name: '大图样式',
+        path: '/pages/limitdiscount/big/index'
+      },
+      {
+        name: '小图样式',
+        path: '/pages/limitdiscount/small/index'
+      },
+      {
+        name: '一大两小样式',
+        path: '/pages/limitdiscount/hybrid/index'
+      },
+      {
+        name: '列表样式',
+        path: '/pages/limitdiscount/list/index'
       }
     ]
   }

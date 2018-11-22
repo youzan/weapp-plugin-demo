@@ -1,0 +1,21 @@
+<doc-page title="小图样式">
+  <demo-item>
+    <view class="demo-item__code" slot="code">
+      <rich-text type="text" nodes="{{ nodes }}">
+      </rich-text>
+    </view>
+
+    <view>
+      <text class="demo-item__subtitle">展示效果：</text>
+      <timelimit-discount
+        app-id="wxf11c5910cb729a82"
+        shop-id="{{ 45694034 }}"
+        open-id="oDpvq0LNzwhMGfiNRbq-NthY5oUo"
+        layout="{{ 1 }}"
+        extra-data="{{ extraData }}"
+        activity-id="2196794"
+        item-ids="353717530"
+      />
+    </view>
+  </demo-item>
+</doc-page>

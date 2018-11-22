@@ -9,21 +9,32 @@
     "pages/goods/three-swipe/index",
     "pages/groupon/big/index",
     "pages/groupon/small/index",
-    "pages/groupon/list/index"
+    "pages/groupon/list/index",
+    "pages/seckill/big/index",
+    "pages/seckill/small/index",
+    "pages/seckill/list/index",
+    "pages/seckill/hybrid/index",
+    "pages/limitdiscount/big/index",
+    "pages/limitdiscount/small/index",
+    "pages/limitdiscount/list/index",
+    "pages/limitdiscount/hybrid/index"
   ],
   "debug": false,
   "plugins": {
     "yzGoodsPlugin": {
-      "version": "0.4.0",
+      "version": "0.5.0",
       "provider": "wxbcdf0f04295ab25e"
     },
     "yzGrouponPlugin": {
-      "version": "0.4.1",
+      "version": "0.4.4",
       "provider": "wx7264e79652f66bc9"
     },
     "yzTradePlugin": {
-      "version": "0.0.1",
+      "version": "0.3.0",
       "provider": "wxef2db03c377b0016"
     }
-  }
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wxf11c5910cb729a82"
+  ]
 }

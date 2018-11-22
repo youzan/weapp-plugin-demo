@@ -12,7 +12,7 @@
         shop-id="{{ 45694034 }}"
         open-id="oDpvq0LNzwhMGfiNRbq-NthY5oUo"
         size="1"
-        goods-source="1"
+        goods-source="0"
         activity-ids="660925,660952,660949,660945,660942,660939"
         extra-data="{{ extraData }}"
       />
