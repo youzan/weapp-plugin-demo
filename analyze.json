@@ -225,8 +225,8 @@
       "pages/seckill/big/index",
       "pages/seckill/small/index",
       "pages/seckill/list/index",
-      "pages/seckill/hybrid/index",
       "pages/limitdiscount/big/index",
+      "pages/seckill/hybrid/index",
       "pages/limitdiscount/small/index",
       "pages/limitdiscount/list/index",
       "pages/limitdiscount/hybrid/index"
@@ -244,8 +244,8 @@
       "pages/seckill/big/index",
       "pages/seckill/small/index",
       "pages/seckill/list/index",
-      "pages/seckill/hybrid/index",
       "pages/limitdiscount/big/index",
+      "pages/seckill/hybrid/index",
       "pages/limitdiscount/small/index",
       "pages/limitdiscount/list/index",
       "pages/limitdiscount/hybrid/index"

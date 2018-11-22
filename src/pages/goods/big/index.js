@@ -16,7 +16,7 @@ Page({
   handleGoodsClick(e) {
     const { detail } = e;
     wx.navigateTo({
-      url: `plugin://yzTradePlugin/goods-detail?alias=${detail.alias}&openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82`
+      url: `plugin://yzTradePlugin/goods-detail?goodsId=${detail.alias}&openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82`
     })
   }
 });
