@@ -8,7 +8,7 @@
 
 在打开的页面里：   
 
-![](https://img.yzcdn.cn/upload_files/2018/11/22/FldiqR-3vJ2sfkkRsUj-NjHNMWlX.png)
+![](https://img.yzcdn.cn/upload_files/2018/11/22/Fmhi1ehqNQ_CSAFIZuPfJqD-jdPC.png)
 
 ## 如何获取有赞的商品id？
 
