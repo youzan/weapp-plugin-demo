@@ -165,24 +165,6 @@
     "pages/dashboard/config.js": [
       "pages/dashboard/index.js"
     ],
-    "components/doc-page/index.json": [
-      "__assets_chunk_name__3.js"
-    ],
-    "components/doc-page/index.wxml": [
-      "__assets_chunk_name__3.js"
-    ],
-    "components/doc-page/index.wxss": [
-      "__assets_chunk_name__3.js"
-    ],
-    "components/demo-item/index.json": [
-      "__assets_chunk_name__3.js"
-    ],
-    "components/demo-item/index.wxml": [
-      "__assets_chunk_name__3.js"
-    ],
-    "components/demo-item/index.wxss": [
-      "__assets_chunk_name__3.js"
-    ],
     "zanui-weapp/dist/panel/index.json": [
       "__assets_chunk_name__3.js"
     ],
@@ -209,6 +191,24 @@
     ],
     "zanui-weapp/dist/cell-group/index.wxss": [
       "__assets_chunk_name__3.js"
+    ],
+    "components/doc-page/index.json": [
+      "__assets_chunk_name__3.js"
+    ],
+    "components/doc-page/index.wxml": [
+      "__assets_chunk_name__3.js"
+    ],
+    "components/doc-page/index.wxss": [
+      "__assets_chunk_name__3.js"
+    ],
+    "components/demo-item/index.json": [
+      "__assets_chunk_name__3.js"
+    ],
+    "components/demo-item/index.wxml": [
+      "__assets_chunk_name__3.js"
+    ],
+    "components/demo-item/index.wxss": [
+      "__assets_chunk_name__3.js"
     ]
   },
   "componentUsed": {
@@ -225,8 +225,8 @@
       "pages/seckill/big/index",
       "pages/seckill/small/index",
       "pages/seckill/list/index",
-      "pages/limitdiscount/big/index",
       "pages/seckill/hybrid/index",
+      "pages/limitdiscount/big/index",
       "pages/limitdiscount/small/index",
       "pages/limitdiscount/list/index",
       "pages/limitdiscount/hybrid/index"
@@ -244,8 +244,8 @@
       "pages/seckill/big/index",
       "pages/seckill/small/index",
       "pages/seckill/list/index",
-      "pages/limitdiscount/big/index",
       "pages/seckill/hybrid/index",
+      "pages/limitdiscount/big/index",
       "pages/limitdiscount/small/index",
       "pages/limitdiscount/list/index",
       "pages/limitdiscount/hybrid/index"

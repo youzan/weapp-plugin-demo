@@ -1,8 +1,8 @@
 {
   "navigationBarTitleText": "有赞微商城插件示例",
   "usingComponents": {
-    "zan-panel": "../../zanui-weapp/dist/panel/index",
-    "zan-cell": "../../zanui-weapp/dist/cell/index",
-    "zan-cell-group": "../../zanui-weapp/dist/cell-group/index"
+    "zan-panel": "./../../zanui-weapp/dist/panel/index",
+    "zan-cell": "./../../zanui-weapp/dist/cell/index",
+    "zan-cell-group": "./../../zanui-weapp/dist/cell-group/index"
   }
 }
