@@ -19,7 +19,7 @@
     "pages/limitdiscount/list/index",
     "pages/limitdiscount/hybrid/index"
   ],
-  "subPackages": [],
+  "debug": false,
   "plugins": {
     "yzGoodsPlugin": {
       "version": "0.5.7",
@@ -34,5 +34,7 @@
       "provider": "wxef2db03c377b0016"
     }
   },
-  "debug": false
+  "navigateToMiniProgramAppIdList": [
+    "wxf11c5910cb729a82"
+  ]
 }
