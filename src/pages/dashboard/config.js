@@ -33,6 +33,10 @@ export default {
       {
         name: 'Coupon 优惠券',
         path: '/pages/coupon/index'
+      },
+      {
+        name: 'AddCart 加入购物车',
+        path: '/pages/addcart/index'
       }
     ]
   },

@@ -19,7 +19,8 @@
     "pages/limitdiscount/list/index",
     "pages/limitdiscount/hybrid/index",
     "pages/zan-account/index",
-    "pages/coupon/index"
+    "pages/coupon/index",
+    "pages/addcart/index"
   ],
   "subPackages": [],
   "plugins": {

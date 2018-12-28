@@ -180,6 +180,15 @@
     "pages/coupon/index.wxss": [
       "__assets_chunk_name__0.js"
     ],
+    "pages/addcart/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/addcart/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/addcart/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
     "pages/dashboard/config.js": [
       "pages/dashboard/index.js"
     ],
@@ -232,6 +241,7 @@
   "componentUsed": {
     "components/doc-page/index": [
       "pages/coupon/index",
+      "pages/addcart/index",
       "pages/goods/big/index",
       "pages/goods/big1small2/index",
       "pages/goods/small/index",
@@ -252,6 +262,7 @@
     ],
     "components/demo-item/index": [
       "pages/coupon/index",
+      "pages/addcart/index",
       "pages/goods/big/index",
       "pages/goods/big1small2/index",
       "pages/goods/small/index",
