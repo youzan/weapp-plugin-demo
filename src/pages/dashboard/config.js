@@ -25,6 +25,10 @@ export default {
       {
         name: 'OrderList 订单列表页',
         path: 'plugin://yzTradePlugin/order-list?type=all&openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
+      },
+      {
+        name: 'ZanAccount 绑定手机号',
+        path: '/pages/zan-account/index'
       }
     ]
   },

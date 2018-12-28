@@ -1,0 +1,22 @@
+<doc-page title="绑定手机号">
+    <demo-item>
+      <view class="demo-item__code" slot="code">
+        <rich-text type="text" nodes="{{ nodes }}">
+        </rich-text>
+      </view>
+  
+      <view>
+        <text class="demo-item__subtitle">展示效果：</text>
+        <zan-account
+          app-id="wxf11c5910cb729a82"
+          shop-id="{{ 45694034 }}"
+          open-id="oDpvq0LNzwhMGfiNRbq-NthY5oUo"
+          show-login="{{ showLogin }}"
+          bind:success="handleBindSuccess"
+        />
+
+        <button class="bind-mobile" bind:tap="handleShowZanAccount">绑定手机号</button>
+      </view>
+    </demo-item>
+  </doc-page>
+  

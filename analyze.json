@@ -162,6 +162,15 @@
     "pages/limitdiscount/hybrid/index.wxss": [
       "__assets_chunk_name__0.js"
     ],
+    "pages/zan-account/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/zan-account/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/zan-account/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
     "pages/dashboard/config.js": [
       "pages/dashboard/index.js"
     ],
@@ -218,8 +227,8 @@
       "pages/goods/small/index",
       "pages/goods/list/index",
       "pages/goods/three/index",
-      "pages/goods/three-swipe/index",
       "pages/groupon/big/index",
+      "pages/goods/three-swipe/index",
       "pages/groupon/small/index",
       "pages/groupon/list/index",
       "pages/seckill/big/index",
@@ -237,8 +246,8 @@
       "pages/goods/small/index",
       "pages/goods/list/index",
       "pages/goods/three/index",
-      "pages/goods/three-swipe/index",
       "pages/groupon/big/index",
+      "pages/goods/three-swipe/index",
       "pages/groupon/small/index",
       "pages/groupon/list/index",
       "pages/seckill/big/index",
