@@ -29,6 +29,10 @@ export default {
       {
         name: 'ZanAccount 绑定手机号',
         path: '/pages/zan-account/index'
+      },
+      {
+        name: 'Coupon 优惠券',
+        path: '/pages/coupon/index'
       }
     ]
   },

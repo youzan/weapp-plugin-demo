@@ -18,12 +18,13 @@
     "pages/limitdiscount/small/index",
     "pages/limitdiscount/list/index",
     "pages/limitdiscount/hybrid/index",
-    "pages/zan-account/index"
+    "pages/zan-account/index",
+    "pages/coupon/index"
   ],
   "debug": false,
   "plugins": {
     "yzGoodsPlugin": {
-      "version": "0.6.0",
+      "version": "0.6.2",
       "provider": "wxbcdf0f04295ab25e"
     },
     "yzGrouponPlugin": {

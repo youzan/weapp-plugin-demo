@@ -1,0 +1,37 @@
+<doc-page title="优惠券">
+  <demo-item>
+    <view class="demo-item__code" slot="code">
+      <rich-text type="text" nodes="{{ autoNodes }}">
+      </rich-text>
+    </view>
+
+    <view>
+      <text class="demo-item__subtitle">自动获取：</text>
+      <coupon
+        open-id="{{ openId }}"
+        shop-id="{{ shopId }}"
+        app-id="{{ appId }}"
+      />
+    </view>
+  </demo-item>
+
+  <demo-item>
+    <view class="demo-item__code" slot="code">
+      <rich-text type="text" nodes="{{ customNodes }}">
+      </rich-text>
+    </view>
+
+    <view>
+      <text class="demo-item__subtitle">手动获取：</text>
+      <coupon
+        open-id="{{ openId }}"
+        shop-id="{{ shopId }}"
+        app-id="{{ appId }}"
+        coupon-source="{{ 1 }}"
+        coupon-ids="5003331,5003325"
+      />
+    </view>
+  </demo-item>
+</doc-page>
+  
+  

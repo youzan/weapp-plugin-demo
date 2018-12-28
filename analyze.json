@@ -171,6 +171,15 @@
     "pages/zan-account/index.wxss": [
       "__assets_chunk_name__0.js"
     ],
+    "pages/coupon/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/coupon/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/coupon/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
     "pages/dashboard/config.js": [
       "pages/dashboard/index.js"
     ],
@@ -222,13 +231,14 @@
   },
   "componentUsed": {
     "components/doc-page/index": [
+      "pages/coupon/index",
       "pages/goods/big/index",
       "pages/goods/big1small2/index",
       "pages/goods/small/index",
       "pages/goods/list/index",
       "pages/goods/three/index",
-      "pages/groupon/big/index",
       "pages/goods/three-swipe/index",
+      "pages/groupon/big/index",
       "pages/groupon/small/index",
       "pages/groupon/list/index",
       "pages/seckill/big/index",
@@ -241,13 +251,14 @@
       "pages/limitdiscount/hybrid/index"
     ],
     "components/demo-item/index": [
+      "pages/coupon/index",
       "pages/goods/big/index",
       "pages/goods/big1small2/index",
       "pages/goods/small/index",
       "pages/goods/list/index",
       "pages/goods/three/index",
-      "pages/groupon/big/index",
       "pages/goods/three-swipe/index",
+      "pages/groupon/big/index",
       "pages/groupon/small/index",
       "pages/groupon/list/index",
       "pages/seckill/big/index",
