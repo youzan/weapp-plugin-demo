@@ -83,6 +83,10 @@ export default {
       {
         name: '横向滑动样式',
         path: '/pages/goods/three-swipe/index'
+      },
+      {
+        name: '加入购物车',
+        path: '/pages/goods/add-cart/index'
       }
     ]
   },

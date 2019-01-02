@@ -7,6 +7,7 @@
     "pages/goods/list/index",
     "pages/goods/three/index",
     "pages/goods/three-swipe/index",
+    "pages/goods/add-cart/index",
     "pages/groupon/big/index",
     "pages/groupon/small/index",
     "pages/groupon/list/index",
@@ -25,7 +26,7 @@
   "subPackages": [],
   "plugins": {
     "yzGoodsPlugin": {
-      "version": "0.6.2",
+      "version": "0.6.3",
       "provider": "wxbcdf0f04295ab25e"
     },
     "yzGrouponPlugin": {

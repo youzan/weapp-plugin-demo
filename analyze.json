@@ -63,6 +63,15 @@
     "pages/goods/three-swipe/index.wxss": [
       "__assets_chunk_name__0.js"
     ],
+    "pages/goods/add-cart/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/goods/add-cart/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/goods/add-cart/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
     "pages/groupon/big/index.json": [
       "__assets_chunk_name__0.js"
     ],
@@ -239,6 +248,15 @@
     ]
   },
   "componentUsed": {
+    "zanui-weapp/dist/panel/index": [
+      "pages/dashboard/index"
+    ],
+    "zanui-weapp/dist/cell/index": [
+      "pages/dashboard/index"
+    ],
+    "zanui-weapp/dist/cell-group/index": [
+      "pages/dashboard/index"
+    ],
     "components/doc-page/index": [
       "pages/coupon/index",
       "pages/addcart/index",
@@ -248,6 +266,7 @@
       "pages/goods/list/index",
       "pages/goods/three/index",
       "pages/goods/three-swipe/index",
+      "pages/goods/add-cart/index",
       "pages/groupon/big/index",
       "pages/groupon/small/index",
       "pages/groupon/list/index",
@@ -269,6 +288,7 @@
       "pages/goods/list/index",
       "pages/goods/three/index",
       "pages/goods/three-swipe/index",
+      "pages/goods/add-cart/index",
       "pages/groupon/big/index",
       "pages/groupon/small/index",
       "pages/groupon/list/index",
@@ -280,15 +300,6 @@
       "pages/limitdiscount/small/index",
       "pages/limitdiscount/list/index",
       "pages/limitdiscount/hybrid/index"
-    ],
-    "zanui-weapp/dist/panel/index": [
-      "pages/dashboard/index"
-    ],
-    "zanui-weapp/dist/cell/index": [
-      "pages/dashboard/index"
-    ],
-    "zanui-weapp/dist/cell-group/index": [
-      "pages/dashboard/index"
     ]
   },
   "onlySubPackageUsed": {}

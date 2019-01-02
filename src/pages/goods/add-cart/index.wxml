@@ -1,0 +1,28 @@
+<doc-page title="大图样式">
+  <demo-item>
+    <view class="demo-item__code" slot="code">
+      <rich-text type="text" nodes="{{ nodes }}">
+      </rich-text>
+    </view>
+
+    <view>
+      <text class="demo-item__subtitle">展示效果：</text>
+      <goods
+        app-id="wxf11c5910cb729a82"
+        shop-id="{{ 45694034 }}"
+        open-id="oDpvq0LNzwhMGfiNRbq-NthY5oUo"
+        goods-group-id="{{ goodsGroupId }}"
+        goods-from="{{ goodsFrom }}"
+        goods-ids="{{ goodsIds }}"
+        layout="{{ 0 }}"
+        extra-data="{{ extraData }}"
+        goods-num="{{ 30 }}"
+        open-cart
+        redirect-type="{{ 1 }}"
+        show-sub-title="{{ false }}"
+        bind:buy="handleBuy"
+        bind:item-click="handleItemClick"
+      />
+    </view>
+  </demo-item>
+</doc-page>
