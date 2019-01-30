@@ -82,28 +82,54 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./src/pages/seckill/hybrid/index.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./src/pages/cart/index.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./src/pages/seckill/hybrid/index.js":
-/*!*******************************************!*\
-  !*** ./src/pages/seckill/hybrid/index.js ***!
-  \*******************************************/
+/***/ "./src/pages/cart/index.js":
+/*!*********************************!*\
+  !*** ./src/pages/cart/index.js ***!
+  \*********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-var app = getApp();
-
 Page({
   data: {
-    alias: 's4ftrie81',
-    nodes: '&lt;seckill<br><span style="margin-left: 10px;"></span>' + 'app-id="wxf11c5910cb729a82"<br><span style="margin-left: 10px;"></span>' + 'shop-id="{{ 45694034 }}"<br><span style="margin-left: 10px;"></span>' + 'layout="{{ 0 }}"<br>/&gt;',
-    extraData: app.globalData.extraData
+    openId: '',
+    appId: '',
+    shopId: ''
   },
 
-  onLoad: function onLoad() {}
+  onLoad: function onLoad(options) {
+    this.setData({
+      openId: options.openId,
+      appId: options.appId,
+      shopId: options.shopId
+    });
+  },
+  goBuy: function goBuy(_ref) {
+    var bookKey = _ref.detail.bookKey;
+    var _data = this.data,
+        openId = _data.openId,
+        appId = _data.appId,
+        shopId = _data.shopId;
+
+    wx.navigateTo({
+      url: 'plugin://yzTradePlugin/buy?bookKey=' + bookKey + '&openId=' + openId + '&appId=' + appId + '&shopId=' + shopId
+    });
+  },
+  goGoodsDetail: function goGoodsDetail(_ref2) {
+    var goodsId = _ref2.detail.goodsId;
+    var _data2 = this.data,
+        openId = _data2.openId,
+        appId = _data2.appId,
+        shopId = _data2.shopId;
+
+    wx.navigateTo({
+      url: 'plugin://yzTradePlugin/goods-detail?goodsId=' + goodsId + '&openId=' + openId + '&appId=' + appId + '&shopId=' + shopId
+    });
+  }
 });
 
 /***/ })

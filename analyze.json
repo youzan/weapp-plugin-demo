@@ -245,6 +245,12 @@
     ],
     "components/demo-item/index.wxss": [
       "__assets_chunk_name__3.js"
+    ],
+    "pages/cart/index.json": [
+      "__assets_chunk_name__8.js"
+    ],
+    "pages/cart/index.wxml": [
+      "__assets_chunk_name__8.js"
     ]
   },
   "componentUsed": {

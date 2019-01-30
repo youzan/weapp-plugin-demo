@@ -1,0 +1,7 @@
+<cart
+  open-id="{{ openId }}"
+  shop-id="{{ shopId }}"
+  app-id="{{ appId }}"
+  bind:goBuy="goBuy"
+  bind:goGoodsDetail="goGoodsDetail"
+/>

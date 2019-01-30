@@ -37,6 +37,10 @@ export default {
       {
         name: 'AddCart 加入购物车',
         path: '/pages/addcart/index'
+      },
+      {
+        name: 'Cart 购物车',
+        path: '/pages/cart/index?openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
       }
     ]
   },
