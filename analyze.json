@@ -198,6 +198,12 @@
     "pages/addcart/index.wxss": [
       "__assets_chunk_name__0.js"
     ],
+    "pages/cart/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/cart/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
     "pages/dashboard/config.js": [
       "pages/dashboard/index.js"
     ],
@@ -245,12 +251,6 @@
     ],
     "components/demo-item/index.wxss": [
       "__assets_chunk_name__3.js"
-    ],
-    "pages/cart/index.json": [
-      "__assets_chunk_name__8.js"
-    ],
-    "pages/cart/index.wxml": [
-      "__assets_chunk_name__8.js"
     ]
   },
   "componentUsed": {
