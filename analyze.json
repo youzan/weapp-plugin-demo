@@ -198,6 +198,12 @@
     "pages/addcart/index.wxss": [
       "__assets_chunk_name__0.js"
     ],
+    "pages/cart/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "pages/cart/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
     "pages/dashboard/config.js": [
       "pages/dashboard/index.js"
     ],

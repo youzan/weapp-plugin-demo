@@ -21,21 +21,26 @@
     "pages/limitdiscount/hybrid/index",
     "pages/zan-account/index",
     "pages/coupon/index",
-    "pages/addcart/index"
+    "pages/addcart/index",
+    "pages/cart/index"
   ],
   "debug": false,
   "plugins": {
     "yzGoodsPlugin": {
-      "version": "0.6.3",
+      "version": "0.6.5",
       "provider": "wxbcdf0f04295ab25e"
     },
     "yzGrouponPlugin": {
-      "version": "0.4.4",
+      "version": "0.4.5",
       "provider": "wx7264e79652f66bc9"
     },
     "yzTradePlugin": {
-      "version": "0.5.1",
+      "version": "0.7.0",
       "provider": "wxef2db03c377b0016"
+    },
+    "yzCartPlugin": {
+      "version": "1.0.0",
+      "provider": "wx10ed5d6fd4792bfe"
     }
   },
   "navigateToMiniProgramAppIdList": [
