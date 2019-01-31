@@ -1,0 +1,5 @@
+var webpackRequire=require("././../../../../webpack-require");webpackRequire("./src/packages/goods/goods/add-cart/index.js",{"./src/packages/goods/goods/add-cart/index.js":
+/*!****************************************************!*\
+  !*** ./src/packages/goods/goods/add-cart/index.js ***!
+  \****************************************************/
+/*! no static exports found */function(a,e){Page({data:{alias:"102276278",nodes:'&lt;goods<br><span style="margin-left: 10px;"></span>app-id="wxf11c5910cb729a82"<br><span style="margin-left: 10px;"></span>shop-id="{{ 45694034 }}"<br><span style="margin-left: 10px;"></span>layout="{{ 0 }}"<br>/&gt;',extraData:{config:{scene:{default:{showReturn:!0},afterPay:{showReturn:!0,replaceOrderDetailBtnWithReturnBtn:!0}}}},goodsFrom:0,goodsGroupId:104842601,goodsIds:"432079102,424875465,351247703"},onLoad:function(){},handleBuy:function(a){console.log(a,"buy")},handleItemClick:function(){console.log("click")},handleTap:function(){this.setData({goodsIds:"432079102,424875465,448091342"})}})}});

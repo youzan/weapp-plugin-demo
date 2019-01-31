@@ -1,0 +1,5 @@
+var webpackRequire=require("././../../../webpack-require");webpackRequire("./src/packages/trade/zan-account/index.js",{"./src/packages/trade/zan-account/index.js":
+/*!*************************************************!*\
+  !*** ./src/packages/trade/zan-account/index.js ***!
+  \*************************************************/
+/*! no static exports found */function(a,n){var e=getApp();Page({data:{alias:"s4ftrie81",nodes:'&lt;zan-account<br><span style="margin-left: 10px;"></span>app-id="wxf11c5910cb729a82"<br><span style="margin-left: 10px;"></span>open-id="wxopenid"<br><span style="margin-left: 10px;"></span>shop-id="{{ 45694034 }}"<br><span style="margin-left: 10px;"></span>show-login="{{ true }}"<br><span style="margin-left: 10px;"></span>bind:success="handleBindSuccess"<br>/&gt;',extraData:e.globalData.extraData,showLogin:!1},onLoad:function(){},handleShowZanAccount:function(){this.setData({showLogin:!0})},handleBindSuccess:function(a){console.log(a.detail,"mobile")}})}});

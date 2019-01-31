@@ -1,47 +1,76 @@
 {
   "pages": [
-    "pages/dashboard/index",
-    "pages/goods/big/index",
-    "pages/goods/big1small2/index",
-    "pages/goods/small/index",
-    "pages/goods/list/index",
-    "pages/goods/three/index",
-    "pages/goods/three-swipe/index",
-    "pages/goods/add-cart/index",
-    "pages/groupon/big/index",
-    "pages/groupon/small/index",
-    "pages/groupon/list/index",
-    "pages/seckill/big/index",
-    "pages/seckill/small/index",
-    "pages/seckill/list/index",
-    "pages/seckill/hybrid/index",
-    "pages/limitdiscount/big/index",
-    "pages/limitdiscount/small/index",
-    "pages/limitdiscount/list/index",
-    "pages/limitdiscount/hybrid/index",
-    "pages/zan-account/index",
-    "pages/coupon/index",
-    "pages/addcart/index",
-    "pages/cart/index"
+    "pages/dashboard/index"
   ],
-  "subPackages": [],
-  "plugins": {
-    "yzGoodsPlugin": {
-      "version": "0.6.5",
-      "provider": "wxbcdf0f04295ab25e"
+  "subPackages": [
+    {
+      "root": "packages/trade",
+      "name": "核心交易",
+      "pages": [
+        "index",
+        "zan-account/index",
+        "coupon/index"
+      ],
+      "plugins": {
+        "yzTradePlugin": {
+          "version": "0.7.0",
+          "provider": "wxef2db03c377b0016"
+        }
+      }
     },
-    "yzGrouponPlugin": {
-      "version": "0.4.5",
-      "provider": "wx7264e79652f66bc9"
+    {
+      "root": "packages/cart",
+      "name": "购物车",
+      "pages": [
+        "cart/index"
+      ],
+      "plugins": {
+        "yzCartPlugin": {
+          "version": "1.0.0",
+          "provider": "wx10ed5d6fd4792bfe"
+        }
+      }
     },
-    "yzTradePlugin": {
-      "version": "0.7.0",
-      "provider": "wxef2db03c377b0016"
-    },
-    "yzCartPlugin": {
-      "version": "1.0.0",
-      "provider": "wx10ed5d6fd4792bfe"
+    {
+      "root": "packages/goods",
+      "name": "商品",
+      "pages": [
+        "addcart/index",
+        "goods/big/index",
+        "goods/big1small2/index",
+        "goods/small/index",
+        "goods/list/index",
+        "goods/three/index",
+        "goods/three-swipe/index",
+        "goods/add-cart/index",
+        "groupon/big/index",
+        "groupon/small/index",
+        "groupon/list/index",
+        "seckill/big/index",
+        "seckill/small/index",
+        "seckill/list/index",
+        "seckill/hybrid/index",
+        "limitdiscount/big/index",
+        "limitdiscount/small/index",
+        "limitdiscount/list/index",
+        "limitdiscount/hybrid/index"
+      ],
+      "plugins": {
+        "yzGrouponPlugin": {
+          "version": "0.4.5",
+          "provider": "wx7264e79652f66bc9"
+        },
+        "yzGoodsPlugin": {
+          "version": "0.6.5",
+          "provider": "wxbcdf0f04295ab25e"
+        }
+      }
     }
-  },
-  "debug": false
+  ],
+  "plugins": {},
+  "preloadRule": {},
+  "debug": false,
+  "navigateToMiniProgramAppIdList": [
+    "wxf11c5910cb729a82"
+  ]
 }

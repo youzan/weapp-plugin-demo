@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "doc-page": "././../../../../components/doc-page/index",
+    "demo-item": "././../../../../components/demo-item/index",
+    "seckill": "plugin://yzGoodsPlugin/seckill"
+  }
+}

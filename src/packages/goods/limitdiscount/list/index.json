@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "doc-page": "../../../../components/doc-page/index",
+    "demo-item": "../../../../components/demo-item/index",
+    "timelimit-discount": "plugin://yzGoodsPlugin/timelimit-discount"
+  }
+}

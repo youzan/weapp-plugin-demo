@@ -1,5 +1,206 @@
 {
   "fileUsed": {
+    "packages/trade/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/trade/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/trade/zan-account/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/trade/zan-account/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/trade/zan-account/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/trade/coupon/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/trade/coupon/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/trade/coupon/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/cart/cart/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/cart/cart/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/addcart/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/addcart/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/addcart/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/big/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/big/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/big/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/big1small2/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/big1small2/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/big1small2/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/small/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/small/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/small/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/list/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/list/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/list/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/three/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/three/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/three/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/three-swipe/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/three-swipe/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/three-swipe/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/add-cart/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/add-cart/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/goods/add-cart/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/groupon/big/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/groupon/big/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/groupon/big/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/groupon/small/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/groupon/small/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/groupon/small/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/groupon/list/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/groupon/list/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/groupon/list/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/big/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/big/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/big/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/small/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/small/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/small/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/list/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/list/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/list/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/hybrid/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/hybrid/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/seckill/hybrid/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/big/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/big/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/big/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/small/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/small/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/small/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/list/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/list/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/list/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/hybrid/index.json": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/hybrid/index.wxml": [
+      "__assets_chunk_name__0.js"
+    ],
+    "packages/goods/limitdiscount/hybrid/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
     "pages/dashboard/index.json": [
       "__assets_chunk_name__0.js"
     ],
@@ -9,304 +210,55 @@
     "pages/dashboard/index.wxss": [
       "__assets_chunk_name__0.js"
     ],
-    "pages/goods/big/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/big/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/big/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/big1small2/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/big1small2/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/big1small2/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/small/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/small/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/small/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/list/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/list/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/list/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/three/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/three/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/three/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/three-swipe/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/three-swipe/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/three-swipe/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/add-cart/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/add-cart/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/goods/add-cart/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/groupon/big/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/groupon/big/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/groupon/big/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/groupon/small/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/groupon/small/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/groupon/small/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/groupon/list/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/groupon/list/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/groupon/list/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/big/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/big/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/big/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/small/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/small/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/small/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/list/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/list/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/list/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/hybrid/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/hybrid/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/seckill/hybrid/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/big/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/big/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/big/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/small/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/small/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/small/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/list/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/list/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/list/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/hybrid/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/hybrid/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/limitdiscount/hybrid/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/zan-account/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/zan-account/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/zan-account/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/coupon/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/coupon/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/coupon/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/addcart/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/addcart/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/addcart/index.wxss": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/cart/index.json": [
-      "__assets_chunk_name__0.js"
-    ],
-    "pages/cart/index.wxml": [
-      "__assets_chunk_name__0.js"
-    ],
     "pages/dashboard/config.js": [
       "pages/dashboard/index.js"
     ],
-    "zanui-weapp/dist/panel/index.json": [
-      "__assets_chunk_name__3.js"
-    ],
-    "zanui-weapp/dist/panel/index.wxml": [
-      "__assets_chunk_name__3.js"
-    ],
-    "zanui-weapp/dist/panel/index.wxss": [
-      "__assets_chunk_name__3.js"
-    ],
-    "zanui-weapp/dist/cell/index.json": [
-      "__assets_chunk_name__3.js"
-    ],
-    "zanui-weapp/dist/cell/index.wxml": [
-      "__assets_chunk_name__3.js"
-    ],
-    "zanui-weapp/dist/cell/index.wxss": [
-      "__assets_chunk_name__3.js"
-    ],
-    "zanui-weapp/dist/cell-group/index.json": [
-      "__assets_chunk_name__3.js"
-    ],
-    "zanui-weapp/dist/cell-group/index.wxml": [
-      "__assets_chunk_name__3.js"
-    ],
-    "zanui-weapp/dist/cell-group/index.wxss": [
-      "__assets_chunk_name__3.js"
-    ],
     "components/doc-page/index.json": [
-      "__assets_chunk_name__3.js"
+      "__assets_chunk_name__2.js"
     ],
     "components/doc-page/index.wxml": [
-      "__assets_chunk_name__3.js"
+      "__assets_chunk_name__2.js"
     ],
     "components/doc-page/index.wxss": [
-      "__assets_chunk_name__3.js"
+      "__assets_chunk_name__2.js"
     ],
     "components/demo-item/index.json": [
-      "__assets_chunk_name__3.js"
+      "__assets_chunk_name__2.js"
     ],
     "components/demo-item/index.wxml": [
-      "__assets_chunk_name__3.js"
+      "__assets_chunk_name__2.js"
     ],
     "components/demo-item/index.wxss": [
-      "__assets_chunk_name__3.js"
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/cell/index.json": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/cell/index.wxml": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/cell/index.wxss": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/cell-group/index.json": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/cell-group/index.wxml": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/cell-group/index.wxss": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/panel/index.json": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/panel/index.wxml": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/panel/index.wxss": [
+      "__assets_chunk_name__2.js"
     ]
   },
-  "componentUsed": {
-    "zanui-weapp/dist/panel/index": [
-      "pages/dashboard/index"
-    ],
-    "zanui-weapp/dist/cell/index": [
-      "pages/dashboard/index"
-    ],
-    "zanui-weapp/dist/cell-group/index": [
-      "pages/dashboard/index"
-    ],
-    "components/doc-page/index": [
-      "pages/coupon/index",
-      "pages/addcart/index",
-      "pages/goods/big/index",
-      "pages/goods/big1small2/index",
-      "pages/goods/small/index",
-      "pages/goods/list/index",
-      "pages/goods/three/index",
-      "pages/goods/three-swipe/index",
-      "pages/goods/add-cart/index",
-      "pages/groupon/big/index",
-      "pages/groupon/small/index",
-      "pages/groupon/list/index",
-      "pages/seckill/big/index",
-      "pages/seckill/small/index",
-      "pages/seckill/list/index",
-      "pages/seckill/hybrid/index",
-      "pages/limitdiscount/big/index",
-      "pages/limitdiscount/small/index",
-      "pages/limitdiscount/list/index",
-      "pages/limitdiscount/hybrid/index"
-    ],
-    "components/demo-item/index": [
-      "pages/coupon/index",
-      "pages/addcart/index",
-      "pages/goods/big/index",
-      "pages/goods/big1small2/index",
-      "pages/goods/small/index",
-      "pages/goods/list/index",
-      "pages/goods/three/index",
-      "pages/goods/three-swipe/index",
-      "pages/goods/add-cart/index",
-      "pages/groupon/big/index",
-      "pages/groupon/small/index",
-      "pages/groupon/list/index",
-      "pages/seckill/big/index",
-      "pages/seckill/small/index",
-      "pages/seckill/list/index",
-      "pages/seckill/hybrid/index",
-      "pages/limitdiscount/big/index",
-      "pages/limitdiscount/small/index",
-      "pages/limitdiscount/list/index",
-      "pages/limitdiscount/hybrid/index"
-    ]
-  },
+  "componentUsed": {},
   "onlySubPackageUsed": {}
 }

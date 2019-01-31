@@ -1,0 +1,5 @@
+var webpackRequire=require("././../../../../webpack-require");webpackRequire("./src/packages/goods/groupon/list/index.js",{"./src/packages/goods/groupon/list/index.js":
+/*!**************************************************!*\
+  !*** ./src/packages/goods/groupon/list/index.js ***!
+  \**************************************************/
+/*! no static exports found */function(a,e){var s=getApp();Page({data:{nodes:'&lt;groupon<br><span style="margin-left: 10px;"></span>app-id="wxf11c5910cb729a82"<br><span style="margin-left: 10px;"></span>open-id="wxopenid"<br><span style="margin-left: 10px;"></span>shop-id="{{ 45694034 }}"<br><span style="margin-left: 10px;"></span>size="2"<br><span style="margin-left: 10px;"></span>goods-source="1"<br><span style="margin-left: 10px;"></span>activity-ids="634766,634762"<br> /&gt;',extraData:s.globalData.extraData},onLoad:function(){}})}});

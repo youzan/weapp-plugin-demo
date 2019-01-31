@@ -20,27 +20,31 @@ export default {
       },
       {
         name: 'Goods 商品页',
-        path: 'plugin://yzTradePlugin/goods-detail?goodsId=2fp4pt2vockaq&openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
+        path: '/packages/trade/index?alias=2fp4pt2vockaq&pageType=goods-detail'
       },
       {
         name: 'OrderList 订单列表页',
-        path: 'plugin://yzTradePlugin/order-list?type=all&openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
+        path: '/packages/trade/index?type=all&pageType=order'
+      },
+      {
+        name: 'OrderDetail 订单详情页',
+        path: '/packages/trade/index?orderNo=E20180813171933000100008&pageType=order-detail'
       },
       {
         name: 'ZanAccount 绑定手机号',
-        path: '/pages/zan-account/index'
+        path: '/packages/trade/zan-account/index'
       },
       {
         name: 'Coupon 优惠券',
-        path: '/pages/coupon/index'
+        path: '/packages/trade/coupon/index?openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
       },
       {
         name: 'AddCart 加入购物车',
-        path: '/pages/addcart/index'
+        path: '/packages/goods/addcart/index'
       },
       {
         name: 'Cart 购物车',
-        path: '/pages/cart/index?openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
+        path: '/packages/cart/cart/index?openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
       }
     ]
   },
@@ -49,15 +53,15 @@ export default {
     content: [
       {
         name: '大图样式',
-        path: '/pages/groupon/big/index'
+        path: '/packages/goods/groupon/big/index'
       },
       {
         name: '小图样式',
-        path: '/pages/groupon/small/index'
+        path: '/packages/goods/groupon/small/index'
       },
       {
         name: '列表样式',
-        path: '/pages/groupon/list/index'
+        path: '/packages/goods/groupon/list/index'
       }
     ]
   },
@@ -66,31 +70,31 @@ export default {
     content: [
       {
         name: '大图样式',
-        path: '/pages/goods/big/index'
+        path: '/packages/goods/goods/big/index'
       },
       {
         name: '小图样式',
-        path: '/pages/goods/small/index'
+        path: '/packages/goods/goods/small/index'
       },
       {
         name: '一大两小样式',
-        path: '/pages/goods/big1small2/index'
+        path: '/packages/goods/goods/big1small2/index'
       },
       {
         name: '列表样式',
-        path: '/pages/goods/list/index'
+        path: '/packages/goods/goods/list/index'
       },
       {
         name: '一行三个样式',
-        path: '/pages/goods/three/index'
+        path: '/packages/goods/goods/three/index'
       },
       {
         name: '横向滑动样式',
-        path: '/pages/goods/three-swipe/index'
+        path: '/packages/goods/goods/three-swipe/index'
       },
       {
         name: '加入购物车',
-        path: '/pages/goods/add-cart/index'
+        path: '/packages/goods/goods/add-cart/index'
       }
     ]
   },
@@ -99,19 +103,19 @@ export default {
     content: [
       {
         name: '大图样式',
-        path: '/pages/seckill/big/index'
+        path: '/packages/goods/seckill/big/index'
       },
       {
         name: '小图样式',
-        path: '/pages/seckill/small/index'
+        path: '/packages/goods/seckill/small/index'
       },
       {
         name: '一大两小样式',
-        path: '/pages/seckill/hybrid/index'
+        path: '/packages/goods/seckill/hybrid/index'
       },
       {
         name: '列表样式',
-        path: '/pages/seckill/list/index'
+        path: '/packages/goods/seckill/list/index'
       }
     ]
   },
@@ -120,19 +124,19 @@ export default {
     content: [
       {
         name: '大图样式',
-        path: '/pages/limitdiscount/big/index'
+        path: '/packages/goods/limitdiscount/big/index'
       },
       {
         name: '小图样式',
-        path: '/pages/limitdiscount/small/index'
+        path: '/packages/goods/limitdiscount/small/index'
       },
       {
         name: '一大两小样式',
-        path: '/pages/limitdiscount/hybrid/index'
+        path: '/packages/goods/limitdiscount/hybrid/index'
       },
       {
         name: '列表样式',
-        path: '/pages/limitdiscount/list/index'
+        path: '/packages/goods/limitdiscount/list/index'
       }
     ]
   }

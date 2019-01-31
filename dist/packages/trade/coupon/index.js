@@ -1,0 +1,5 @@
+var webpackRequire=require("././../../../webpack-require");webpackRequire("./src/packages/trade/coupon/index.js",{"./src/packages/trade/coupon/index.js":
+/*!********************************************!*\
+  !*** ./src/packages/trade/coupon/index.js ***!
+  \********************************************/
+/*! no static exports found */function(p,a){Page({data:{openId:"",appId:"",shopId:"",autoNodes:'&lt;coupon<br><span style="margin-left: 10px;"></span>app-id="wxf11c5910cb729a82"<br><span style="margin-left: 10px;"></span>shop-id="{{ 45694034 }}"<br><span style="margin-left: 10px;"></span>open-id="oDpvq0N1rr0NjE9FmeFXFDWEH9zs"<br>/&gt;',customNodes:'&lt;coupon<br><span style="margin-left: 10px;"></span>app-id="wxf11c5910cb729a82"<br><span style="margin-left: 10px;"></span>shop-id="{{ 45694034 }}"<br><span style="margin-left: 10px;"></span>open-id="oDpvq0N1rr0NjE9FmeFXFDWEH9zs"<br><span style="margin-left: 10px;"></span>coupon-source="{{ 1 }}"<br><span style="margin-left: 10px;"></span>coupon-ids="5003331,5003325"<br>/&gt;'},onLoad:function(p){this.setData({openId:p.openId,appId:p.appId,shopId:p.shopId})}})}});

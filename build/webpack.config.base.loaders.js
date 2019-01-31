@@ -4,7 +4,7 @@ const fileLoader = name => ({
   loader: 'file-loader',
   options: {
     publicPath: '',
-    context: path.resolve(__dirname, '../src'),
+    context: path.resolve(process.cwd(), 'src'),
     name
   }
 });
