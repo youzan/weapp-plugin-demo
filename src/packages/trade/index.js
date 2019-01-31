@@ -1,6 +1,5 @@
 Page({
   onLoad(options) {
-    console.log(options);
     const { pageType } = options;
     let url;
 

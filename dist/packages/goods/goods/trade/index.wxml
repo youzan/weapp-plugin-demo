@@ -1,0 +1,23 @@
+<doc-page title="大图样式">
+  <demo-item>
+    <view class="demo-item__code" slot="code">
+      <rich-text type="text" nodes="{{ nodes }}">
+      </rich-text>
+    </view>
+
+    <view>
+      <text class="demo-item__subtitle">展示效果：</text>
+      <goods
+        app-id="wxf11c5910cb729a82"
+        shop-id="{{ 45694034 }}"
+        open-id="oDpvq0LNzwhMGfiNRbq-NthY5oUo"
+        goods-group-id="102276278"
+        layout="{{ 0 }}"
+        extra-data="{{ extraData }}"
+        redirect-type="3"
+        bind:item-click="handleGoodsClick"
+        bind:buy="handleGoodsClick"
+      />
+    </view>
+  </demo-item>
+</doc-page>
