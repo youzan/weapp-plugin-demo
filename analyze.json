@@ -6,6 +6,9 @@
     "packages/trade/index.wxml": [
       "__assets_chunk_name__0.js"
     ],
+    "packages/trade/index.wxss": [
+      "__assets_chunk_name__0.js"
+    ],
     "packages/trade/zan-account/index.json": [
       "__assets_chunk_name__0.js"
     ],
@@ -231,6 +234,15 @@
     "components/demo-item/index.wxss": [
       "__assets_chunk_name__2.js"
     ],
+    "zanui-weapp/dist/panel/index.json": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/panel/index.wxml": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/panel/index.wxss": [
+      "__assets_chunk_name__2.js"
+    ],
     "zanui-weapp/dist/cell/index.json": [
       "__assets_chunk_name__2.js"
     ],
@@ -247,15 +259,6 @@
       "__assets_chunk_name__2.js"
     ],
     "zanui-weapp/dist/cell-group/index.wxss": [
-      "__assets_chunk_name__2.js"
-    ],
-    "zanui-weapp/dist/panel/index.json": [
-      "__assets_chunk_name__2.js"
-    ],
-    "zanui-weapp/dist/panel/index.wxml": [
-      "__assets_chunk_name__2.js"
-    ],
-    "zanui-weapp/dist/panel/index.wxss": [
       "__assets_chunk_name__2.js"
     ]
   },
