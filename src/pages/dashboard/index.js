@@ -1,6 +1,6 @@
 import config from './config';
-import args from './utils/args';
-import entryData from './mock';
+import args from '../../utils/args';
+import entryData from '../../utils/mock';
 
 Page({
   data: {

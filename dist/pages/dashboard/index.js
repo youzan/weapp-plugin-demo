@@ -6,12 +6,12 @@ var webpackRequire=require("././../../webpack-require");webpackRequire("./src/pa
 /*!**************************************!*\
   !*** ./src/pages/dashboard/index.js ***!
   \**************************************/
-/*! no exports provided */function(a,e,t){"use strict";t.r(e);var s=t(/*! ./config */"./src/pages/dashboard/config.js"),o=t(/*! ./utils/args */"./src/pages/dashboard/utils/args.js"),d=t(/*! ./mock */"./src/pages/dashboard/mock.js");Page({data:{curConfig:{}},onLoad:function(a){Object.keys(s.default).forEach(function(a){(s.default[a].content||[]).forEach(function(a){var e=a.path;a.path=o.default.add(e,d.default)})});var e=a.type||"dashboard";this.setData({config:s.default,curConfig:s.default[e]})},onShareAppMessage:function(){return{title:"有赞微商城插件示例",path:"pages/dashboard/index"}}})},"./src/pages/dashboard/mock.js":
-/*!*************************************!*\
-  !*** ./src/pages/dashboard/mock.js ***!
-  \*************************************/
-/*! exports provided: default */function(a,e,t){"use strict";t.r(e),e.default={openId:"oDpvq0N1rr0NjE9FmeFXFDWEH9zs",shopId:45694034,appId:"wxf11c5910cb729a82"}},"./src/pages/dashboard/utils/args.js":
-/*!*******************************************!*\
-  !*** ./src/pages/dashboard/utils/args.js ***!
-  \*******************************************/
-/*! exports provided: default */function(a,e,t){"use strict";t.r(e);var s=function(a){var e="";for(var t in a)""!==a[t]&&(e+=t.trim()+"="+a[t]+"&");return e?"?"+e.slice(0,e.length-1):""};function o(){var a=(arguments.length>0&&void 0!==arguments[0]?arguments[0]:"").split("#")[0].split("?"),e={};return a[1]&&a[1].split("&").forEach(function(a){var t=a.split("=");e[t[0]]=t.slice(1).join("=")}),e}e.default={add:function(a,e){var t=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if(!a||0===a.length||0===a.trim().indexOf("javascript"))return"";var d=a.split("#"),n=d[0].split("?"),i=o(a);return Object.keys(e).forEach(function(a){i[a.trim()]=t?encodeURIComponent(e[a]):e[a]}),a=n[0]+s(i),d[1]?a+="#"+d[1]:a},getAll:o}}});
+/*! no exports provided */function(a,e,t){"use strict";t.r(e);var s=t(/*! ./config */"./src/pages/dashboard/config.js"),o=t(/*! ../../utils/args */"./src/utils/args.js"),n=t(/*! ../../utils/mock */"./src/utils/mock.js");Page({data:{curConfig:{}},onLoad:function(a){Object.keys(s.default).forEach(function(a){(s.default[a].content||[]).forEach(function(a){var e=a.path;a.path=o.default.add(e,n.default)})});var e=a.type||"dashboard";this.setData({config:s.default,curConfig:s.default[e]})},onShareAppMessage:function(){return{title:"有赞微商城插件示例",path:"pages/dashboard/index"}}})},"./src/utils/args.js":
+/*!***************************!*\
+  !*** ./src/utils/args.js ***!
+  \***************************/
+/*! exports provided: default */function(a,e,t){"use strict";t.r(e);var s=function(a){var e="";for(var t in a)""!==a[t]&&(e+=t.trim()+"="+a[t]+"&");return e?"?"+e.slice(0,e.length-1):""};function o(){var a=(arguments.length>0&&void 0!==arguments[0]?arguments[0]:"").split("#")[0].split("?"),e={};return a[1]&&a[1].split("&").forEach(function(a){var t=a.split("=");e[t[0]]=t.slice(1).join("=")}),e}e.default={add:function(a,e){var t=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if(!a||0===a.length||0===a.trim().indexOf("javascript"))return"";var n=a.split("#"),d=n[0].split("?"),i=o(a);return Object.keys(e).forEach(function(a){i[a.trim()]=t?encodeURIComponent(e[a]):e[a]}),a=d[0]+s(i),n[1]?a+="#"+n[1]:a},getAll:o}},"./src/utils/mock.js":
+/*!***************************!*\
+  !*** ./src/utils/mock.js ***!
+  \***************************/
+/*! exports provided: default */function(a,e,t){"use strict";t.r(e),e.default={openId:"oDpvq0N1rr0NjE9FmeFXFDWEH9zs",shopId:45694034,appId:"wxf11c5910cb729a82"}}});
