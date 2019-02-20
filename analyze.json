@@ -216,6 +216,12 @@
     "pages/dashboard/config.js": [
       "pages/dashboard/index.js"
     ],
+    "pages/dashboard/utils/args.js": [
+      "pages/dashboard/index.js"
+    ],
+    "pages/dashboard/mock.js": [
+      "pages/dashboard/index.js"
+    ],
     "components/doc-page/index.json": [
       "__assets_chunk_name__2.js"
     ],
@@ -260,6 +266,14 @@
     ],
     "zanui-weapp/dist/cell-group/index.wxss": [
       "__assets_chunk_name__2.js"
+    ],
+    "utils/args.js": [
+      "pages/dashboard/index.js",
+      "packages/trade/index.js"
+    ],
+    "utils/mock.js": [
+      "pages/dashboard/index.js",
+      "packages/trade/index.js"
     ]
   },
   "componentUsed": {},

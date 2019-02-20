@@ -1,3 +1,6 @@
+import args from '../../utils/args';
+import entryData from '../../utils/mock';
+
 Page({
   onLoad(options) {
     const { pageType } = options;
@@ -12,11 +15,13 @@ Page({
         break;
       case 'order-detail':
         url = `detail?orderNo=${options.orderNo}`;
+      case 'buy':
+        url = `buy?bookKey=${options.bookKey}`;
         break;
     }
 
     wx.redirectTo({
-      url: `plugin://yzTradePlugin/${url}&openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82`
+      url: args.add(`plugin://yzTradePlugin/${url}`, entryData)
     });
   }
 });

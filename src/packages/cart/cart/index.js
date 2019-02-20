@@ -16,14 +16,14 @@ Page({
   goBuy({ detail: { bookKey } }) {
     const { openId, appId, shopId } = this.data;
     wx.navigateTo({
-      url: `plugin://yzTradePlugin/buy?bookKey=${bookKey}&openId=${openId}&appId=${appId}&shopId=${shopId}`
+      url: `/packages/trade/index?pageType=buy&bookKey=${bookKey}&openId=${openId}&appId=${appId}&shopId=${shopId}`
     });
   },
 
   goGoodsDetail({ detail: { goodsId } }) {
     const { openId, appId, shopId } = this.data;
     wx.navigateTo({
-      url: `plugin://yzTradePlugin/goods-detail?goodsId=${goodsId}&openId=${openId}&appId=${appId}&shopId=${shopId}`
+      url: `/packages/trade/index?pageType=goods-detail&alias=${goodsId}&openId=${openId}&appId=${appId}&shopId=${shopId}`
     });
   }
 });

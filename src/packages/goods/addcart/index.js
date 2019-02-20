@@ -15,5 +15,11 @@ Page({
     }
   },
 
-  onLoad() {}
+  onLoad(options) {
+    this.setData({
+      openId: options.openId,
+      appId: options.appId,
+      shopId: options.shopId
+    });
+  }
 });
