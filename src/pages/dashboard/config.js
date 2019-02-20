@@ -36,7 +36,7 @@ export default {
       },
       {
         name: 'Coupon 优惠券',
-        path: '/packages/trade/coupon/index?openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
+        path: '/packages/trade/coupon/index'
       },
       {
         name: 'AddCart 加入购物车',
@@ -44,7 +44,7 @@ export default {
       },
       {
         name: 'Cart 购物车',
-        path: '/packages/cart/cart/index?openId=oDpvq0N1rr0NjE9FmeFXFDWEH9zs&shopId=45694034&appId=wxf11c5910cb729a82'
+        path: '/packages/cart/cart/index'
       }
     ]
   },

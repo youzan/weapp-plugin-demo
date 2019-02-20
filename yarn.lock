@@ -3746,10 +3746,10 @@ mimic-fn@^1.0.0:
   resolved "http://registry.npm.qima-inc.com/mimic-fn/download/mimic-fn-1.2.0.tgz#820c86a39334640e99516928bd03fca88057d022"
   integrity sha1-ggyGo5M0ZA6ZUWkovQP8qIBX0CI=
 
-mini-program-webpack-loader@0.2.7-alpha.4:
-  version "0.2.7-alpha.4"
-  resolved "http://registry.npm.qima-inc.com/mini-program-webpack-loader/download/mini-program-webpack-loader-0.2.7-alpha.4.tgz#5329a115049e6e8ee857ee5702de0449cb9f5191"
-  integrity sha1-UymhFQSebo7oV+5XAt4EScufUZE=
+mini-program-webpack-loader@0.2.1:
+  version "0.2.1"
+  resolved "http://registry.npm.qima-inc.com/mini-program-webpack-loader/download/mini-program-webpack-loader-0.2.1.tgz#290a365289a86da2026ae08bdd902690e6bc4756"
+  integrity sha1-KQo2UomobaICauCL3ZAmkOa8R1Y=
   dependencies:
     cheerio "^1.0.0-rc.2"
     colors "^1.3.0"

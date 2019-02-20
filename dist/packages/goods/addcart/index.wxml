@@ -8,19 +8,19 @@
     <view>
       <text class="demo-item__subtitle">展示效果：</text>
       <add-cart
-        alias="3ez22ta02j2hu"
-        app-id="wxb33bfd3d63a65bdf"
-        shop-id="{{ 45694034 }}"
-        open-id="oDpvq0LNzwhMGfiNRbq-niunai2"
+        alias="26yzjsolo0nwy"
+        app-id="{{ appId }}"
+        shop-id="{{ shopId }}"
+        open-id="{{ openId }}"
       >
         <button class="demo-item__cart-btn">多sku商品</button>
       </add-cart>
 
       <add-cart
-        alias="3esw6kc35w5n6"
-        app-id="wxb33bfd3d63a65bdf"
-        shop-id="{{ 45694034 }}"
-        open-id="oDpvq0LNzwhMGfiNRbq-niunai2"
+        alias="3nk96iyk66xhe"
+        app-id="{{ appId }}"
+        shop-id="{{ shopId }}"
+        open-id="{{ openId }}"
       >
         <button class="demo-item__cart-btn">无sku无留言商品快速加入购物车</button>
       </add-cart>
