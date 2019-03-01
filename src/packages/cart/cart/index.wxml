@@ -2,6 +2,8 @@
   open-id="{{ openId }}"
   shop-id="{{ shopId }}"
   app-id="{{ appId }}"
+  refresh-flag="{{ refreshFlag }}"
   bind:goBuy="goBuy"
   bind:goGoodsDetail="goGoodsDetail"
+  bind:refreshEnd="onRefreshEnd"
 />

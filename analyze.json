@@ -213,13 +213,34 @@
     "pages/dashboard/index.wxss": [
       "__assets_chunk_name__0.js"
     ],
+    "utils/args.js": [
+      "packages/trade/index.js",
+      "pages/dashboard/index.js"
+    ],
+    "utils/mock.js": [
+      "packages/trade/index.js",
+      "packages/goods/goods/add-cart/index.js",
+      "pages/dashboard/index.js",
+      "packages/goods/goods/big/index.js",
+      "packages/goods/goods/big1small2/index.js",
+      "packages/goods/goods/list/index.js",
+      "packages/goods/goods/three/index.js",
+      "packages/goods/goods/three-swipe/index.js",
+      "packages/goods/groupon/big/index.js",
+      "packages/goods/groupon/small/index.js",
+      "packages/goods/groupon/list/index.js",
+      "packages/goods/seckill/big/index.js",
+      "packages/goods/seckill/small/index.js",
+      "packages/goods/seckill/list/index.js",
+      "packages/goods/seckill/hybrid/index.js",
+      "packages/goods/limitdiscount/big/index.js",
+      "packages/goods/limitdiscount/small/index.js",
+      "packages/goods/limitdiscount/list/index.js",
+      "packages/goods/limitdiscount/hybrid/index.js",
+      "packages/trade/zan-account/index.js",
+      "packages/goods/goods/small/index.js"
+    ],
     "pages/dashboard/config.js": [
-      "pages/dashboard/index.js"
-    ],
-    "pages/dashboard/utils/args.js": [
-      "pages/dashboard/index.js"
-    ],
-    "pages/dashboard/mock.js": [
       "pages/dashboard/index.js"
     ],
     "components/doc-page/index.json": [
@@ -240,15 +261,6 @@
     "components/demo-item/index.wxss": [
       "__assets_chunk_name__2.js"
     ],
-    "zanui-weapp/dist/panel/index.json": [
-      "__assets_chunk_name__2.js"
-    ],
-    "zanui-weapp/dist/panel/index.wxml": [
-      "__assets_chunk_name__2.js"
-    ],
-    "zanui-weapp/dist/panel/index.wxss": [
-      "__assets_chunk_name__2.js"
-    ],
     "zanui-weapp/dist/cell/index.json": [
       "__assets_chunk_name__2.js"
     ],
@@ -267,13 +279,14 @@
     "zanui-weapp/dist/cell-group/index.wxss": [
       "__assets_chunk_name__2.js"
     ],
-    "utils/args.js": [
-      "pages/dashboard/index.js",
-      "packages/trade/index.js"
+    "zanui-weapp/dist/panel/index.json": [
+      "__assets_chunk_name__2.js"
     ],
-    "utils/mock.js": [
-      "pages/dashboard/index.js",
-      "packages/trade/index.js"
+    "zanui-weapp/dist/panel/index.wxml": [
+      "__assets_chunk_name__2.js"
+    ],
+    "zanui-weapp/dist/panel/index.wxss": [
+      "__assets_chunk_name__2.js"
     ]
   },
   "componentUsed": {},

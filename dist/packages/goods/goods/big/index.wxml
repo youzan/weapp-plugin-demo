@@ -8,9 +8,9 @@
     <view>
       <text class="demo-item__subtitle">展示效果：</text>
       <goods
-        app-id="wxf11c5910cb729a82"
-        shop-id="{{ 45694034 }}"
-        open-id="oDpvq0LNzwhMGfiNRbq-NthY5oUo"
+        app-id="{{ mockData.appId }}"
+        shop-id="{{ mockData.shopId }}"
+        open-id="{{ mockData.openId }}"
         goods-group-id="102276278"
         layout="{{ 0 }}"
         extra-data="{{ extraData }}"

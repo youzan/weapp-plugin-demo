@@ -1,3 +1,5 @@
+import mockData from 'src/utils/mock';
+
 Page({
   data: {
     alias: '102276278',
@@ -23,7 +25,8 @@ Page({
     },
     goodsFrom: 0,
     goodsGroupId: 104842601,
-    goodsIds: '432079102,424875465,351247703'
+    goodsIds: '432079102,424875465,351247703',
+    mockData
   },
 
   onLoad: function() {

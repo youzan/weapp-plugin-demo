@@ -1,3 +1,5 @@
+import mockData from 'src/utils/mock';
+
 const app = getApp();
 
 Page({
@@ -9,7 +11,8 @@ Page({
       + 'size="1"<br><span style="margin-left: 10px;"></span>'
       + 'goods-source="1"<br><span style="margin-left: 10px;"></span>'
       + 'activity-ids="634766,634762"<br> /&gt;',
-    extraData: app.globalData.extraData
+    extraData: app.globalData.extraData,
+    mockData
   },
 
   onLoad: function() {
