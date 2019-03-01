@@ -2,7 +2,8 @@ Page({
   data: {
     openId: '',
     appId: '',
-    shopId: ''
+    shopId: '',
+    refreshFlag: 0
   },
 
   onLoad(options) {
@@ -10,6 +11,13 @@ Page({
       openId: options.openId,
       appId: options.appId,
       shopId: options.shopId
+    });
+  },
+
+  onPullDownRefresh() {
+    const { refreshFlag } = this.data;
+    this.setData({
+      refreshFlag: (refreshFlag + 1) % 2
     });
   },
 
@@ -25,5 +33,9 @@ Page({
     wx.navigateTo({
       url: `/packages/trade/index?pageType=goods-detail&alias=${goodsId}&openId=${openId}&appId=${appId}&shopId=${shopId}`
     });
+  },
+
+  onRefreshEnd({ detail: { success } }) {
+    wx.stopPullDownRefresh();
   }
 });

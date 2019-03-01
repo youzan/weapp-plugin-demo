@@ -1,5 +1,5 @@
-import args from '../../utils/args';
-import entryData from '../../utils/mock';
+import args from 'src/utils/args';
+import mockData from 'src/utils/mock';
 
 Page({
   onLoad(options) {
@@ -21,7 +21,7 @@ Page({
     }
 
     wx.redirectTo({
-      url: args.add(`plugin://yzTradePlugin/${url}`, entryData)
+      url: args.add(`plugin://yzTradePlugin/${url}`, mockData)
     });
   }
 });

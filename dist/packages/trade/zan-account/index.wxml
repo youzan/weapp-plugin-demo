@@ -4,13 +4,13 @@
         <rich-text type="text" nodes="{{ nodes }}">
         </rich-text>
       </view>
-  
+
       <view>
         <text class="demo-item__subtitle">展示效果：</text>
         <zan-account
-          app-id="wxf11c5910cb729a82"
-          shop-id="{{ 45694034 }}"
-          open-id="oDpvq0LNzwhMGfiNRbq-NthY5oUo"
+          app-id="{{ mockData.appId }}"
+          shop-id="{{ mockData.shopId }}"
+          open-id="{{ mockData.openId }}"
           show-login="{{ showLogin }}"
           bind:success="handleBindSuccess"
         />
@@ -19,4 +19,3 @@
       </view>
     </demo-item>
   </doc-page>
-  

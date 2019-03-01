@@ -14,7 +14,7 @@
       ],
       "plugins": {
         "yzTradePlugin": {
-          "version": "0.7.0",
+          "version": "0.7.2",
           "provider": "wxef2db03c377b0016"
         }
       }
@@ -27,7 +27,7 @@
       ],
       "plugins": {
         "yzCartPlugin": {
-          "version": "1.0.0",
+          "version": "1.0.2",
           "provider": "wx10ed5d6fd4792bfe"
         }
       }
@@ -62,7 +62,7 @@
           "provider": "wx7264e79652f66bc9"
         },
         "yzGoodsPlugin": {
-          "version": "0.6.5",
+          "version": "0.7.1",
           "provider": "wxbcdf0f04295ab25e"
         }
       }

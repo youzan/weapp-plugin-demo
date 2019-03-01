@@ -8,9 +8,9 @@
     <view>
       <text class="demo-item__subtitle">展示效果：</text>
       <groupon
-        app-id="wxf11c5910cb729a82"
-        shop-id="{{ 45694034 }}"
-        open-id="oDpvq0LNzwhMGfiNRbq-NthY5oUo"
+        app-id="{{ mockData.appId }}"
+        shop-id="{{ mockData.shopId }}"
+        open-id="{{ mockData.openId }}"
         size="1"
         goods-source="0"
         activity-ids="660925,660952,660949,660945,660942,660939"

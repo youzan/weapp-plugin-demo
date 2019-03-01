@@ -1,3 +1,5 @@
+import mockData from 'src/utils/mock';
+
 const app = getApp();
 
 Page({
@@ -10,7 +12,8 @@ Page({
       + 'show-login="{{ true }}"<br><span style="margin-left: 10px;"></span>'
       + 'bind:success="handleBindSuccess"<br>/&gt;',
     extraData: app.globalData.extraData,
-    showLogin: false
+    showLogin: false,
+    mockData
   },
 
   onLoad: function() {
